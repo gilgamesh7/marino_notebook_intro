@@ -25,8 +25,8 @@ def _(math):
 
 @app.cell
 def _():
-    # opposite = 3
-    return
+    opposite = 3
+    return (opposite,)
 
 
 @app.cell

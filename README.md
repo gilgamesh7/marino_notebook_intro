@@ -10,7 +10,8 @@ An introduction ti the Reactive marimo notebook, a replacement for Jupyter
 - Create virtual environment : uv init .
 - Install marimo : uv add marimo  
 - Install other packages for this project :
-    -   uv add numpy
+    - uv add numpy
+    - uv add matplotlib
 
 # Use locally
 - start notebook : marimo edit simultaneous_equations.py (opens in browser)
